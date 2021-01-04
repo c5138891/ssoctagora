@@ -1,0 +1,5 @@
+include ':agoraapp'
+include ':agorabase'
+include ':agorawhiteboard'
+include ':agoralog'
+include ':agorasdk'

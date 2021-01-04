@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agora.iml" filepath="$PROJECT_DIR$/.idea/modules/agora.iml" group="agora" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agoraapp/agoraapp.iml" filepath="$PROJECT_DIR$/.idea/modules/agoraapp/agoraapp.iml" group="agora/agoraapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agorabase/agorabase.iml" filepath="$PROJECT_DIR$/.idea/modules/agorabase/agorabase.iml" group="agora/agorabase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agoralog/agoralog.iml" filepath="$PROJECT_DIR$/.idea/modules/agoralog/agoralog.iml" group="agora/agoralog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agorasdk/agorasdk.iml" filepath="$PROJECT_DIR$/.idea/modules/agorasdk/agorasdk.iml" group="agora/agorasdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agorawhiteboard/agorawhiteboard.iml" filepath="$PROJECT_DIR$/.idea/modules/agorawhiteboard/agorawhiteboard.iml" group="agora/agorawhiteboard" />
+    </modules>
+  </component>
+</project>
